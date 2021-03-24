@@ -1,0 +1,5 @@
+.vscode/*
+preferences.ini
+venv/*
+wheel/*
+*__pycache__/*
